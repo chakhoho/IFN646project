@@ -43,6 +43,8 @@ Saliency maps are typically shown as heatmaps, with hotness corresponding to reg
 
 ## Method 
 
+The mammography are obtained from CBIS-DDSM(Curated Breast Imaging Subset of DDSM), it is an an updated and standardized version of the Digital Database for Screening Mammography(DDSM), it contains normal, benign, and malignant cases with verified pathology information. Initially, the DDSM is a database of 2,620 scanned film mammography studies with 9684 images. Initially,  the data size is over 160GB, due to the hardware limitation we used the processed version of CBIS-DDSM from Kaggle(https://www.kaggle.com/datasets/cheddad/miniddsm). This MINI-DDSM dataset contains all the mammograms from the original CBIS-DDSM database, and it has been converted from ddsm file to png file. There are 3 kinds of images which are normal mammograms, mammograms with benign tissue and mammograms with malignant tissue, here we want to focus on right breast CC view images only due to hardware limitation. The goal of this analysis is to train a deep learning model and classify the  mammography into into 3 classes (Normal, Benign and Malignant). 
+
 
 ## Dependencies
 
