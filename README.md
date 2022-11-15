@@ -2,7 +2,7 @@
 
 Rerpot Dissertation for the Master of Information Technology (IFN646 Biomedical Data Science) at the Queensland University of Technology (2022).
 
-The final report can be read here: [Breast Cancer Mammogrammphy Classification, Ayush Raj, Chak Ho Chan, Li Jen Shao (2022)](https://github.com/chakhoho/IFN646project/blob/main/group%2010%20-%20IFN646%20report%20finalised%20.pdf)
+The final report can be read and download here: [Breast Cancer Mammogrammphy Classification, Ayush Raj, Chak Ho Chan, Li Jen Shao (2022)](https://github.com/chakhoho/IFN646project/blob/main/group%2010%20-%20IFN646%20report%20finalised%20.pdf)
 
 ## Abstract
 
