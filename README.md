@@ -2,7 +2,7 @@
 
 Rerpot Dissertation for the MSc Master of Information Technology(IFN646 Biomedical Data Science at the Queensland University of Technology (2022).
 
-The final report can be read here: [Breast Cancer Mammogrammphy Classification, Ayush Raj, Chak Ho Chan, Li Jen Shao (2022)](https://github.com/Adamouization/Breast-Cancer-Detection-Mammogram-Deep-Learning/blob/master/Breast%20Cancer%20Detection%20in%20Mammograms%20using%20Deep%20Learning%20Techniques%20-%20Adam%20Jaamour%2C%202020.pdf)
+The final report can be read here: [Breast Cancer Mammogrammphy Classification, Ayush Raj, Chak Ho Chan, Li Jen Shao (2022)]()
 
 ## Abstract
 
