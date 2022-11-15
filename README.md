@@ -1,6 +1,6 @@
 # Breast Cancer Mammogrammphy Using VGG CNN Model and Techniques
 
-Rerpot Dissertation for the MSc Master of Information Technology(IFN646 Biomedical Data Science at the Queensland University of Technology (2022).
+Rerpot Dissertation for the Master of Information Technology (IFN646 Biomedical Data Science) at the Queensland University of Technology (2022).
 
 The final report can be read here: [Breast Cancer Mammogrammphy Classification, Ayush Raj, Chak Ho Chan, Li Jen Shao (2022)]()
 
