@@ -48,13 +48,13 @@ The mammography are obtained from CBIS-DDSM(Curated Breast Imaging Subset of DDS
 
 ## Dependencies
 
-pandas==1.4.2
-numpy==1.22.4
-cv2==4.6.0
-PIL==9.0.1
-seaborn==0.11.2
-tensorflow==2.10.0
-sklearn==1.1.3
-tensorflow.keras==2.10.0
+- pandas==1.4.2
+- numpy==1.22.4
+- cv2==4.6.0
+- PIL==9.0.1
+- seaborn==0.11.2
+- tensorflow==2.10.0
+- sklearn==1.1.3
+- tensorflow.keras==2.10.0
 
 
